@@ -1,0 +1,23 @@
+{
+  "name": "nti_ctf_cakeclicker",
+  "version": "1.0.0",
+  "description": "a clicker game based ctf challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upitroma/NTI_CTF_cakeClicker.git"
+  },
+  "author": "upitroma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upitroma/NTI_CTF_cakeClicker/issues"
+  },
+  "homepage": "https://github.com/upitroma/NTI_CTF_cakeClicker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}

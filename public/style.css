@@ -1,0 +1,8 @@
+body {
+    max-width: 500px;
+    margin: auto;
+    background-color: rgb(22, 18, 13);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+}
